@@ -5,6 +5,10 @@
 # Resultados curso udemy "Git Completo: Do Básico ao Avançado" concluído em 02/26.
 ## O texto abaixo é uma mostra parcial do que aprendi ao concluir o curso acima citado (todos os comandos foram utilizados para construir esse repositório).
 
+**Gráfico resultante após todos os commits**
+<img width="715" height="200" alt="Captura de tela 2026-02-04 134101" src="https://github.com/user-attachments/assets/e48aae0f-39d8-4187-9ccf-250417b0c47e" />
+
+
 _**Os comando abaixo foram replicados no git Bash**_
 
 **Configurações básicas**
@@ -155,3 +159,4 @@ git init (criar o repositório)
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
 </div>
+
